@@ -1,0 +1,1 @@
+cp apue.h error.c /usr/local/include/
